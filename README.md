@@ -6,7 +6,7 @@ This folder contains:
 
     b)the subfolder Pymaceuticals with
 
-        - the code Pymaceuticals.jpynb, with the solution for the challenge
+        - the code Pymaceuticals_ver1.jpynb, with the solution for the challenge
         - the code  Pymaceuticals_starter.jpynb, given
         - a folder containing two csv files with mice data, used for the challenge
 
